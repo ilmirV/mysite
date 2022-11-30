@@ -1,5 +1,6 @@
 body {
-    background: white url("images/background.jpg") no-repeat;
+    /*background: white url("images/background.jpg") no-repeat;*/
+    background: linear-gradient(315deg, hsla(348, 88%, 66%, 1) 0%, hsla(36, 89%, 68%, 1) 100%);
 }
 
 li a {
